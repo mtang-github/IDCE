@@ -1,0 +1,7 @@
+name: ItemDetectingCommandExecutor
+version: 1
+author: danny
+main: us.danny.idce.Main
+commands:
+    idcereload:
+        description: reload the item detecting command database
